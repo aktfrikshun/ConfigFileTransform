@@ -1,0 +1,4 @@
+bool_val =true
+int_val = 1
+float_val= 1.0
+string_val = hello

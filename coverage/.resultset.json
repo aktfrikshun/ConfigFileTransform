@@ -1,0 +1,180 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/allentaylor/projects/ConfigFileParser/app/helpers/application_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/helpers/home_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/lib/config_file_transform.rb": {
+        "lines": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          6,
+          6,
+          null,
+          null,
+          1,
+          6,
+          null,
+          5,
+          5,
+          5,
+          16,
+          null,
+          null,
+          5,
+          null,
+          null,
+          1,
+          null,
+          1,
+          6,
+          null,
+          null,
+          1,
+          16,
+          16,
+          13,
+          null,
+          null,
+          1,
+          13,
+          13,
+          13,
+          12,
+          null,
+          1,
+          null,
+          13,
+          null,
+          null,
+          1,
+          13,
+          7,
+          7,
+          4,
+          4,
+          null,
+          null,
+          null,
+          null,
+          1,
+          16,
+          null,
+          null,
+          null,
+          1,
+          13,
+          null,
+          null,
+          1,
+          7,
+          null,
+          null,
+          1,
+          7,
+          null,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/mailers/application_mailer.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/models/application_record.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/jobs/application_job.rb": {
+        "lines": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/controllers/application_controller.rb": {
+        "lines": [
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/controllers/home_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/channels/application_cable/connection.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
+      "/Users/allentaylor/projects/ConfigFileParser/app/channels/application_cable/channel.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      }
+    },
+    "timestamp": 1610727860
+  }
+}
