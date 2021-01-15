@@ -5,7 +5,7 @@
 #
 # The default delimeter will be '=', but an alternate may be specified on initialization
 #
-# Notes:
+# NOTE:
 # if multiple values are specified for the same key, the last value assigned will override the previous values
 # lines starting with '#', ';' will be ignored as comments
 # lines which do not match the key delimeter value syntax will be ignored as erroneous
